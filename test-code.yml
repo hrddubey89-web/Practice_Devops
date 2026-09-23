@@ -6,5 +6,5 @@
 Task:
   -name: Testing
   -status: prod
-  -OS: Linux
+  
   -services: Not yet
