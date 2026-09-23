@@ -1,0 +1,9 @@
+---
+-name: Ec2 Test
+-Status: Present
+-host: Localhost
+-uat: prepod
+Task:
+  -name: Testing
+  -status: prod
+  -OS: Linux
